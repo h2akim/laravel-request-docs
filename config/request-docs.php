@@ -54,6 +54,10 @@ return [
     // open api config
     // used to generate open api json
     'open_api' => [
+        // default title
+        'title' => 'Laravel Request Docs',
+        // default description
+        'description' => 'Laravel Request Docs',
         // default version that this library provides
         'version' => '3.0.0',
         // changeable
